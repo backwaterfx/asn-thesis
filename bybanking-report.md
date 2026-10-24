@@ -106,5 +106,6 @@ The ordinary explanation was tested first: traffic monetisation or parking with 
 - Why delegation changed after expiry, or whether the registration will survive the grace period.
 - Whether any takedown action has occurred. None is visible at registry or registrar level.
 
+##Analyst's Note:## BWF has quarantined the original registering parties due to uncertain sensitivity.
 ---
 *Backwater Forensics | 2026-10-24 | interim, addendum expected after 2026-11-22*
